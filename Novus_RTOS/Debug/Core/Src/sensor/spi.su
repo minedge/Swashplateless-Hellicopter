@@ -1,0 +1,5 @@
+spi.c:41:9:addChip	32	static
+spi.c:75:6:deleteChip	16	static
+spi.c:92:10:read2ByteRegister	24	static
+spi.c:121:19:write2ByteRegister	24	static
+spi.c:144:10:readWrite2ByteRegister	32	static

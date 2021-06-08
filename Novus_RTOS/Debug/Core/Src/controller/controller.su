@@ -1,0 +1,8 @@
+controller.c:5:6:controllerInit	16	static
+controller.c:18:7:PD_Controller	48	static
+controller.c:30:7:PID_Controller	48	static
+controller.c:45:6:getMode	32	static
+controller.c:63:7:speedController	24	static
+controller.c:77:7:momentController	48	static
+controller.c:85:6:outputMotor	40	static
+controller.c:123:6:PWM_Generator	16	static
