@@ -22,7 +22,7 @@
 
 > This project was made at STM32CubeIDE.
 >
-> You can download at [[HERE]](https://www.st.com/en/development-tools/stm32cubeide.html) and open project 
+> You can download at [[HERE]](https://www.st.com/en/development-tools/stm32cubeide.html) then you can also open project 
 >
 > If you wondering about pin number. you can see it at Novus_RTOS.ioc
 
