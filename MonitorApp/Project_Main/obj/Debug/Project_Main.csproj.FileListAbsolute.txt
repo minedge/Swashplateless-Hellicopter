@@ -1,0 +1,73 @@
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\bin\Debug\Project_Main.exe.config
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\bin\Debug\Project_Main.exe
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\bin\Debug\Project_Main.pdb
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.Form1.resources
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.exe
+E:\Graduate_Project\Coding\User_Interface\Project_Main\Project_Main\obj\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\bin\Debug\Project_Main.exe.config
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\bin\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\bin\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\obj\Debug\Project_Main.Form1.resources
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\obj\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\Project_Main (2)\Project_Main\obj\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\obj\Debug\Project_Main.Form1.resources
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\obj\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\obj\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\bin\Debug\Project_Main.exe.config
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\bin\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\Non-Thread\Project_Main\bin\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\bin\Debug\Project_Main.exe.config
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\bin\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\bin\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\obj\Debug\Project_Main.Form1.resources
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\obj\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\Non-Thread (2)\Project_Main\obj\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\visual\Project_Main\bin\Debug\Project_Main.exe.config
+C:\Users\tmddn\Desktop\visual\Project_Main\bin\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\visual\Project_Main\bin\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.Form1.resources
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.exe
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.pdb
+C:\Users\tmddn\Desktop\visual\Project_Main\obj\Debug\Project_Main.LoadCell_Form.resources
+F:\Graduate_Project\Coding\visual\Project_Main\bin\Debug\Project_Main.exe.config
+F:\Graduate_Project\Coding\visual\Project_Main\bin\Debug\Project_Main.exe
+F:\Graduate_Project\Coding\visual\Project_Main\bin\Debug\Project_Main.pdb
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.Form1.resources
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.LoadCell_Form.resources
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.exe
+F:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.pdb
+E:\Graduate_Project\Coding\visual\Project_Main\bin\Debug\Project_Main.exe.config
+E:\Graduate_Project\Coding\visual\Project_Main\bin\Debug\Project_Main.exe
+E:\Graduate_Project\Coding\visual\Project_Main\bin\Debug\Project_Main.pdb
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.csprojAssemblyReference.cache
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.Form1.resources
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.LoadCell_Form.resources
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.Properties.Resources.resources
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.csproj.GenerateResource.cache
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.csproj.CoreCompileInputs.cache
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.exe
+E:\Graduate_Project\Coding\visual\Project_Main\obj\Debug\Project_Main.pdb
