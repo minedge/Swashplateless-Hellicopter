@@ -77,6 +77,18 @@ const osThreadAttr_t updateEncoderTa_attributes = {
   .cb_size = sizeof(updateEncoderTaControlBlock),
   .priority = (osPriority_t) osPriorityNormal,
 };
+/* Definitions for paramReceiver */
+osThreadId_t paramReceiverHandle;
+uint32_t paramReceiverBuffer[ 128 ];
+osStaticThreadDef_t paramReceiverControlBlock;
+const osThreadAttr_t paramReceiver_attributes = {
+  .name = "paramReceiver",
+  .stack_mem = &paramReceiverBuffer[0],
+  .stack_size = sizeof(paramReceiverBuffer),
+  .cb_mem = &paramReceiverControlBlock,
+  .cb_size = sizeof(paramReceiverControlBlock),
+  .priority = (osPriority_t) osPriorityNormal,
+};
 /* Definitions for tmtcTimer */
 osTimerId_t tmtcTimerHandle;
 osStaticTimerDef_t tmtcTimerControlBlock;
@@ -108,6 +120,7 @@ static void MX_TIM1_Init(void);
 static void MX_SPI3_Init(void);
 void StartControllerTask(void *argument);
 void StartEncoderTask(void *argument);
+void StartparamReceiver(void *argument);
 void tmtcTimerCallback(void *argument);
 
 /* USER CODE BEGIN PFP */
@@ -193,6 +206,9 @@ int main(void)
 
   /* creation of updateEncoderTa */
   updateEncoderTaHandle = osThreadNew(StartEncoderTask, NULL, &updateEncoderTa_attributes);
+
+  /* creation of paramReceiver */
+  paramReceiverHandle = osThreadNew(StartparamReceiver, NULL, &paramReceiver_attributes);
 
   /* USER CODE BEGIN RTOS_THREADS */
   /* add threads, ... */
@@ -588,6 +604,43 @@ void StartEncoderTask(void *argument)
 	osDelay(1);
   }
   /* USER CODE END StartEncoderTask */
+}
+
+/* USER CODE BEGIN Header_StartparamReceiver */
+/**
+* @brief Function implementing the paramReceiver thread.
+* @param argument: Not used
+* @retval None
+*/
+/* USER CODE END Header_StartparamReceiver */
+void StartparamReceiver(void *argument)
+{
+  /* USER CODE BEGIN StartparamReceiver */
+	uint8_t paramData[9];
+	float p = 0;
+	float d = 0;
+  /* Infinite loop */
+  for(;;)
+  {
+	  HAL_UART_Receive(&huart2, paramData, 9, 1000);
+	  p = paramData[3] << 24 | paramData[2] << 16 | paramData[1] << 8 | paramData[0];
+	  d = paramData[7] << 24 | paramData[6] << 16 | paramData[5] << 8 | paramData[4];
+	  switch(paramData[8]){
+	  case 10:
+		  setSpeedGain(p, d);
+		  break;
+	  case 20:
+		  setMomentGain(p, d);
+		  break;
+	  case 40:
+		  setAmplitudeGain(p);
+		  break;
+	  default:
+		  break;
+	  }
+    osDelay(1);
+  }
+  /* USER CODE END StartparamReceiver */
 }
 
 /* tmtcTimerCallback function */

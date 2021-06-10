@@ -75,7 +75,7 @@ void setMomentGain(float p, float d){
   *             Recommaned amount of Change 0.1
   * @retval None
   */
-void setAmplitudeGain(float gain, float rpm){
+void setAmplitudeGain(float gain){
 	amplitude_gain = gain;//*map(rpm, RPM_MIN, RPM_MAX, 0, 1);
 }
 
@@ -161,8 +161,8 @@ SPT_Value setpoint(RC rc, MOTOR motor){
     SPT_Value setpoint;
 
     setpoint.speed = setSpeed(rc.throttle);
-	setAmplitudeGain(1, motor.rpm);
-    setpoint.amplitude = map(setAmplitude(rc.roll, rc.pitch), 0, 100, 0, map(motor.rpm, RPM_MIN, RPM_MAX, 30, 600));
+	setAmplitudeGain(1);
+    setpoint.amplitude = map(setAmplitude(rc.roll, rc.pitch), 0, 100, 0, map(motor.rpm, RPM_MIN, RPM_MAX, 10, 500));
     setpoint.cyclic_shift = setCyclicShift(rc.roll, rc.pitch);
 	//setpoint.moment_speed = setpoint.speed + (sin((motor.ang*(2*PI/360.)) + setpoint.cyclic_shift) * setpoint.amplitude);
 

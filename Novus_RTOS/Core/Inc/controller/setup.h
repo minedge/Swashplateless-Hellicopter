@@ -129,7 +129,7 @@ void setMomentGain(float p, float d, float i);
 void setSpeedGain(float p, float d);
 void setMomentGain(float p, float d);
 #endif
-void setAmplitudeGain(float gain, float rpm);
+void setAmplitudeGain(float gain);
 
 /**
   * @}
