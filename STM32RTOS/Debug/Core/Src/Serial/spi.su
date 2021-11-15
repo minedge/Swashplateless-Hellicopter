@@ -1,0 +1,5 @@
+spi.c:27:10:addSPIChip	32	static
+spi.c:61:6:deleteSPIChip	16	static
+spi.c:78:10:SPI_read2ByteRegister	16	static
+spi.c:104:19:SPI_write2ByteRegister	24	static
+spi.c:127:10:SPI_readWrite2ByteRegister	32	static

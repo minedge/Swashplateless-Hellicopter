@@ -1,0 +1,6 @@
+tmtc.c:10:6:tmtcInit	16	static
+tmtc.c:16:9:checkPacket	16	static
+tmtc.c:30:6:parseMessage	32	static
+tmtc.c:60:6:makePacket	32	static
+tmtc.c:72:6:sendHeartBeat	48	static
+tmtc.c:90:6:sendACK	40	static

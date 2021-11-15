@@ -1,3 +1,0 @@
-tmtc.c:12:6:get_packet_moter	24	static
-tmtc.c:23:6:get_packet_rc	32	static
-tmtc.c:41:6:trans_pc	56	static

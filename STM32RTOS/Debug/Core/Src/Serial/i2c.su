@@ -1,0 +1,5 @@
+i2c.c:23:10:addI2CChip	24	static
+i2c.c:49:6:deleteI2CChip	16	static
+i2c.c:60:9:I2C_readByteRegister	40	static
+i2c.c:73:10:I2C_read2ByteRegister	40	static
+i2c.c:92:19:I2C_writeByteRegister	40	static

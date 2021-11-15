@@ -1,0 +1,6 @@
+uart.c:15:10:addChannel	24	static
+uart.c:38:6:deleteChannel	16	static
+uart.c:47:9:readByte	24	static
+uart.c:59:10:readNByte	24	static
+uart.c:71:19:writeByte	16	static
+uart.c:79:19:writeNByte	16	static
