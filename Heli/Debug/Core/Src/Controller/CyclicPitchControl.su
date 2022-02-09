@@ -1,0 +1,3 @@
+CyclicPitchControl.c:12:7:getOffset	32	static
+CyclicPitchControl.c:16:7:getAmplitude	24	static
+CyclicPitchControl.c:25:7:getShift	24	static

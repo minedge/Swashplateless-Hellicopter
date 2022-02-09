@@ -5,8 +5,10 @@
 + AS5147 - Magnet Encoder
 + Development Board - NUCLEO-STM32G431KB
 + Main Motor - TAROT 4006 kv 620
++ Main Propeller - 1552 CW (DJI S1000 prop)
++ Tail Motor - HGLRC AEOLUS 1202.5 8000KV
 + Radio Controller - Spektrum (receiver : SPM9645)
-+ Hings - https://www.thingiverse.com/thing:4881100
++ Hings - https://www.thingiverse.com/thing:5239549
 
 
 
@@ -24,18 +26,10 @@
 >
 > You can download at [[HERE]](https://www.st.com/en/development-tools/stm32cubeide.html) then you can also open project 
 >
-> If you wondering about pin number. you can see it at Novus_RTOS.ioc
+> If you wondering about pin number. you can see it at Heli.ioc
 
 
 
-##### MonitorApp
+##### NUCLEO-G431KB Pinmap.xlsx
 
-> This one is additional project with Windows Form.
->
-> You can launch it by Project_Main.exe
->
-> You can see RC command, Encoder Data, RPM, PWM command, etc
->
-> If your Propeller didn't work, you can change some gain at this program. 
->
-> Any other function will update soon.
+> This file contains information about the connection between NUCLEO and other sensors.

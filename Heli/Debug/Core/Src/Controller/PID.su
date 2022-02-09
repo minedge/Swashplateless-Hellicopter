@@ -1,0 +1,3 @@
+PID.c:10:5:regPID	32	static
+PID.c:29:7:PIDoutput	72	static
+PID.c:61:6:resetState	16	static
