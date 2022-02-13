@@ -33,3 +33,10 @@
 ##### NUCLEO-G431KB Pinmap.xlsx
 
 > This file contains information about the connection between NUCLEO and other sensors.
+
+
+##### Before flight
+
+> The program has been developed for CW propeller. so you have to use CW prop at main motor
+> The moment direction is determined according to the position of the motor, and the position of the motor is measured based on a blade in which the pitch angle increases when the blade is in the lag position.
+> Therefore, power must be applied after the blade is positioned forward.
